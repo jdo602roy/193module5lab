@@ -39,4 +39,3 @@ function addNewContact(arr, nm, phn, eml) {
         } else console.log("Please input digits for phone number");
     } else console.log("Please input name of Array");
 }
-
